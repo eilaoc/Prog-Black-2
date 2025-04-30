@@ -6,7 +6,7 @@ A cross-platform mobile app built with React Native and Flask that extracts stru
 
 ## Features
 
-- Paste a TikTok or Instagram video link and get a structured recipe.
+- Paste a TikTok, Youtube or Instagram video link and get a structured recipe.
 - Clean UI with ingredients, step-by-step instructions, and cook/prep times.
 - Smooth tab navigation using Expo Router.
 - Backend handles video downloading, audio extraction, transcription, and parsing.
